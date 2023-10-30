@@ -27,6 +27,7 @@ Apaixonado por criar projetos com diversas ferramentas e tecnologias, incluindo:
 
 
 
+
 <!--
 **GustavoPaladini/GustavoPaladini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
