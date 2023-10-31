@@ -2,7 +2,7 @@
 
 Programador Front End JR em constante aprendizado e estudante de graduação em Análise e Desenvolvimento de Sistemas. 
 <br>
-Apaixonado por criar projetos com diversas ferramentas e tecnologias, incluindo:
+Apaixonado por criar projetos com diversas tecnologias e linguagem de programação, incluindo:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
